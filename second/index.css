@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    display: 
+}
+body{
+  background-color: #B8E986
+}
+.box1{
+   background-color: #4A90E2;
+    float: left;
+    width: 33%;
+    height: 100vh;
+}
+.box2{
+    background-color: #B8E986;
+    width: 33%;
+    border-left: 33%;
+    padding-right:33%;
+    height:100vh;
+}
+.box3{
+    background-color: #50E3C2 ;
+    width: 33%;
+    height: 100vh;
+    float:right;
+    font-family: sans-serif;
+    position: relative;
+}
+p{
+    color:white;
+    font-family: 'Helvetica';
+    text-align: center;
+    font-size: 24px;
+    font-weight: 100;
+}
+.text-box{
+    background-color: red;
+    padding: 20%;
+    position: absolute;
+    bottom: 0;
+
+}
